@@ -1,7 +1,11 @@
+---
 project_name: showcase-release
 before:
   hooks:
+    - go mod download
     - go mod tidy
+changelog:
+  skip: true
 builds:
   - id: "showcase-release"
     main: ./cmd/showcase-release

@@ -1,0 +1,2 @@
+area/docs:
+  - any: ['mkdocs.yml' 'docs/*']

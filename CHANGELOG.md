@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.0](https://github.com/glebiller/showcase-release/compare/v0.3.0...v0.4.0) (2022-08-12)
+
+
+### Features
+
+* add deployment ([ae0d87e](https://github.com/glebiller/showcase-release/commit/ae0d87edcd2cc05ccc9d98fdc566039ce307af57))
+
 ## [0.3.0](https://github.com/glebiller/showcase-release/compare/v0.2.0...v0.3.0) (2022-08-12)
 
 

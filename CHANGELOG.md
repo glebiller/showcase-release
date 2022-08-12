@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.0](https://github.com/glebiller/showcase-release/compare/v0.2.0...v0.3.0) (2022-08-12)
+
+
+### Features
+
+* 2 step release process ([233e4c1](https://github.com/glebiller/showcase-release/commit/233e4c1f9095fd4c7aaad86971c78b7e9a64f3dd))
+
 ## [0.2.0](https://github.com/glebiller/showcase-release/compare/v0.1.0...v0.2.0) (2022-08-12)
 
 

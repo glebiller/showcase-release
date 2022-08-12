@@ -7,10 +7,12 @@ on:
       - main
 
 jobs:
-  release-please:
+  release:
     runs-on: ubuntu-latest
     steps:
-      - uses: google-github-actions/release-please-action@v3
+      - id: release-please
+        name: Release Please
+        uses: google-github-actions/release-please-action@v3
         with:
           release-type: go
           package-name: showcase-release

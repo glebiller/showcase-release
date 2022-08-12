@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.2](https://github.com/glebiller/showcase-release/compare/v0.4.1...v0.4.2) (2022-08-12)
+
+
+### Bug Fixes
+
+* automatic release ([5e99ae6](https://github.com/glebiller/showcase-release/commit/5e99ae6a918142449c43c40fbf4e75b6f5ccf01c))
+
 ## [0.4.1](https://github.com/glebiller/showcase-release/compare/v0.4.0...v0.4.1) (2022-08-12)
 
 
